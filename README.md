@@ -1,1 +1,15 @@
-# website_written_with_python_and_django
+WebNews
+
+На данном сайте размещаются все актуальные новости из различных сфер. Новости можно отсортировать по категории.
+
+
+Дополнительные ссылки:
+
+Техническое задание:
+Отчёт:
+Скринкаст: https://drive.google.com/file/d/1LxzNEiWhJmJgvyKatm2Ms09Y8hyIkrh8/view?usp=share_link
+
+
+Разработчики:
+Храпов Артём
+Логинов Владимир
