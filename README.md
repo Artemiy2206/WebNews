@@ -11,11 +11,11 @@ ____
 
 ### Дополнительные ссылки
 
-Техническое задание: [ссылка на Google.Docs]
+Техническое задание:
 
-Отчет: [ссылка на Google.Docs]
+Отчет: [ссылка на Google.Docs](https://docs.google.com/document/d/162N1nraCmxu-aOFnodvZlFYs68gSHNiL/edit?usp=share_link&ouid=106715825943020190009&rtpof=true&sd=true)
 
-Скринкаст: https://drive.google.com/file/d/1LxzNEiWhJmJgvyKatm2Ms09Y8hyIkrh8/view?usp=share_link 
+Скринкаст: [ссылка на Google.Docs](https://drive.google.com/file/d/1LxzNEiWhJmJgvyKatm2Ms09Y8hyIkrh8/view?usp=share_link) 
 
 ### Разработчики
 
