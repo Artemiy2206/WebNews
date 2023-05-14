@@ -6,7 +6,9 @@ ____
 ### Дополнительные ссылки
 
 Техническое задание: [ссылка на Google.Docs]
+
 Отчет: [ссылка на Google.Docs]
+
 Скринкаст: [ссылка на Google.Docs](https://drive.google.com/file/d/1LxzNEiWhJmJgvyKatm2Ms09Y8hyIkrh8/view?usp=share_link)  
 
 ### Разработчики
