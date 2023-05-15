@@ -1,7 +1,7 @@
 # WebNews
 ____
 
-Проект представляет собой новостной портал, на котором публикуются свежие еновости из различных сфер. Новости можно отсортировать по категориям.
+Проект представляет собой новостной портал, на котором публикуются свежие новости из различных сфер. Новости можно отсортировать по категориям.
 
 ### Инструкция по запуску
 
@@ -11,7 +11,7 @@ ____
 
 ### Дополнительные ссылки
 
-Техническое задание:[ссылка на Google.Docs](https://docs.google.com/document/d/1LagpejkQtAuNVxkoNExYA6FjQ1g1wljz/edit?usp=sharing&ouid=106715825943020190009&rtpof=true&sd=true)
+Техническое задание: [ссылка на Google.Docs](https://docs.google.com/document/d/1LagpejkQtAuNVxkoNExYA6FjQ1g1wljz/edit?usp=sharing&ouid=106715825943020190009&rtpof=true&sd=true)
 
 Отчет: [ссылка на Google.Docs](https://docs.google.com/document/d/162N1nraCmxu-aOFnodvZlFYs68gSHNiL/edit?usp=share_link&ouid=106715825943020190009&rtpof=true&sd=true)
 
